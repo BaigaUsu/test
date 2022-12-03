@@ -1,3 +1,3 @@
-for i in range(0, 100, 2):
-    # if i % 2 == 0:
-    print(i)
+name = 'Johny'
+age = 24
+print(f"{name} is {age} old! " )
